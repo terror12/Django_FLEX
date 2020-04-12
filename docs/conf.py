@@ -21,7 +21,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = "Django_FLEX"
+project = "FF AutoDuel"
 copyright = """2020, Adam Scerra"""
 author = "Adam Scerra"
 
