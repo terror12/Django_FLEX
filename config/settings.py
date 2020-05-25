@@ -1,3 +1,7 @@
+import os
+
+# import dj_database_url
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Static files (CSS, JavaScript, Images)
@@ -15,3 +19,5 @@ MIDDLEWARE_CLASSES = (
     # https://warehouse.python.org/project/whitenoise/
     'whitenoise.middleware.WhiteNoiseMiddleware',
 )
+
+# DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)

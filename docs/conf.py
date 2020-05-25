@@ -21,7 +21,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = "FF AutoDuel"
+project = "FLEXproject"
 copyright = """2020, Adam Scerra"""
 author = "Adam Scerra"
 
